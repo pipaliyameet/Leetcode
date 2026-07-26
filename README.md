@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pipaliyameet/Leetcode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pipaliyameet/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/pipaliyameet/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pipaliyameet/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/pipaliyameet/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -18,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pipaliyameet/Leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pipaliyameet/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
