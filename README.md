@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2278-percentage-of-letter-in-string](https://github.com/pipaliyameet/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/pipaliyameet/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
