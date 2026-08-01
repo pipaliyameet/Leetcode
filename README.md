@@ -54,4 +54,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pipaliyameet/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pipaliyameet/Leetcode/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pipaliyameet/Leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pipaliyameet/Leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/pipaliyameet/Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
