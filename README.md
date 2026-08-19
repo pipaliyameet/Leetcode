@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pipaliyameet/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/pipaliyameet/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
