@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/pipaliyameet/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pipaliyameet/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pipaliyameet/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/pipaliyameet/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3206-alternating-groups-i](https://github.com/pipaliyameet/Leetcode/tree/master/3206-alternating-groups-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pipaliyameet/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/pipaliyameet/Leetcode/tree/master/3731-find-missing-elements) |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/pipaliyameet/Leetcode/tree/master/0177-nth-highest-salary) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/pipaliyameet/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
