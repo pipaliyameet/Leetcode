@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/pipaliyameet/Leetcode/tree/master/0595-big-countries) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/pipaliyameet/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1517-find-users-with-valid-e-mails](https://github.com/pipaliyameet/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1667-fix-names-in-a-table](https://github.com/pipaliyameet/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1965-employees-with-missing-information](https://github.com/pipaliyameet/Leetcode/tree/master/1965-employees-with-missing-information) |
 ## Simulation
 |  |
