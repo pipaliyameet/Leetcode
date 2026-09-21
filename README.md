@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/pipaliyameet/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pipaliyameet/Leetcode/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/pipaliyameet/Leetcode/tree/master/1323-maximum-69-number) |
+| [2413-smallest-even-multiple](https://github.com/pipaliyameet/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pipaliyameet/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pipaliyameet/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pipaliyameet/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pipaliyameet/Leetcode/tree/master/0836-rectangle-overlap) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/pipaliyameet/Leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
