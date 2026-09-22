@@ -1,4 +1,4 @@
-/* Write your T-SQL query statement below */
+# Write your MySQL query statement below
 select product_name, sum(unit) unit
 from Products p 
 join Orders o
