@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pipaliyameet/Leetcode/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pipaliyameet/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/pipaliyameet/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pipaliyameet/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pipaliyameet/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pipaliyameet/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pipaliyameet/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pipaliyameet/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/pipaliyameet/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pipaliyameet/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pipaliyameet/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pipaliyameet/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pipaliyameet/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/pipaliyameet/Leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pipaliyameet/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pipaliyameet/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/pipaliyameet/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pipaliyameet/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pipaliyameet/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pipaliyameet/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pipaliyameet/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/pipaliyameet/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pipaliyameet/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pipaliyameet/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/pipaliyameet/Leetcode/tree/master/2413-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pipaliyameet/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
