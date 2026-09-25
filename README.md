@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pipaliyameet/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pipaliyameet/Leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pipaliyameet/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/pipaliyameet/Leetcode/tree/master/0836-rectangle-overlap) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pipaliyameet/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/pipaliyameet/Leetcode/tree/master/0066-plus-one) |
 | [0219-contains-duplicate-ii](https://github.com/pipaliyameet/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pipaliyameet/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pipaliyameet/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
