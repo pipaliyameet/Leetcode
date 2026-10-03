@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1587-bank-account-summary-ii](https://github.com/pipaliyameet/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/pipaliyameet/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1965-employees-with-missing-information](https://github.com/pipaliyameet/Leetcode/tree/master/1965-employees-with-missing-information) |
+| [3436-find-valid-emails](https://github.com/pipaliyameet/Leetcode/tree/master/3436-find-valid-emails) |
 ## Simulation
 |  |
 | ------- |
