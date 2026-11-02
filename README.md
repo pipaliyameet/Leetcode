@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pipaliyameet/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/pipaliyameet/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pipaliyameet/Leetcode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pipaliyameet/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/pipaliyameet/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/pipaliyameet/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/pipaliyameet/Leetcode/tree/master/2235-add-two-integers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pipaliyameet/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pipaliyameet/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/pipaliyameet/Leetcode/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/pipaliyameet/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pipaliyameet/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pipaliyameet/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/pipaliyameet/Leetcode/tree/master/1652-defuse-the-bomb) |
