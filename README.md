@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pipaliyameet/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/pipaliyameet/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/pipaliyameet/Leetcode/tree/master/0877-stone-game) |
+| [1154-day-of-the-year](https://github.com/pipaliyameet/Leetcode/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pipaliyameet/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/pipaliyameet/Leetcode/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/pipaliyameet/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/pipaliyameet/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/pipaliyameet/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pipaliyameet/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/pipaliyameet/Leetcode/tree/master/1154-day-of-the-year) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pipaliyameet/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pipaliyameet/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pipaliyameet/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
