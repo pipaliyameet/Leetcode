@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/pipaliyameet/Leetcode/tree/master/0070-climbing-stairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pipaliyameet/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/pipaliyameet/Leetcode/tree/master/0877-stone-game) |
+| [1668-maximum-repeating-substring](https://github.com/pipaliyameet/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/pipaliyameet/Leetcode/tree/master/1154-day-of-the-year) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pipaliyameet/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pipaliyameet/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1668-maximum-repeating-substring](https://github.com/pipaliyameet/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pipaliyameet/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pipaliyameet/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2278-percentage-of-letter-in-string](https://github.com/pipaliyameet/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
@@ -289,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pipaliyameet/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/pipaliyameet/Leetcode/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
