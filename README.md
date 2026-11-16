@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/pipaliyameet/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pipaliyameet/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pipaliyameet/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pipaliyameet/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/pipaliyameet/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/pipaliyameet/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/pipaliyameet/Leetcode/tree/master/2409-count-days-spent-together) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pipaliyameet/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pipaliyameet/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/pipaliyameet/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/pipaliyameet/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
