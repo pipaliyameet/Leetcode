@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1668-maximum-repeating-substring](https://github.com/pipaliyameet/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/pipaliyameet/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pipaliyameet/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/pipaliyameet/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pipaliyameet/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/pipaliyameet/Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/pipaliyameet/Leetcode/tree/master/2405-optimal-partition-of-string) |
